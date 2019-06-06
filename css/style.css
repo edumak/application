@@ -131,7 +131,7 @@ footer p{
 	}
 	.jumbotron{
 		margin-top:5px;
-	}
+	}h
 }
 
 
@@ -177,16 +177,15 @@ footer p{
 	footer p{
 		float:none;
 		text-align: center;
-		padding-top:10px;
+		padding:15px 15px 0 15px;
 		margin-left:-15px;
 
 	}
 	footer li{
-		margin-left:15px;
+		
 		text-align: center;
-		padding-left:5px;
-		padding-right:5px;
 		font-size: 15px;
+		padding:0 15px 0 15px;
 		
 
 	}
